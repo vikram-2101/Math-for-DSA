@@ -1,5 +1,5 @@
 
-//  leetcode 638 solution
+/  leetcode 638 solution
 
 public class FlipImage {
     public int[][] FlipandInverImage(int[][] image) {
