@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class RangeOfXor {
     public static void main(String[] args) {
