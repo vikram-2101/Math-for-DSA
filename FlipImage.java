@@ -1,4 +1,4 @@
-g
+
 //  leetcode 638 solution
 
 public class FlipImage {
